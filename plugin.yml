@@ -1,0 +1,9 @@
+name: PDGHDesencantar
+main: me.mchiappinam.pdghdesencantar.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+commands:
+   desencantar:
+      description: Info.
+      usage: /<command>
